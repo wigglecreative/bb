@@ -1,0 +1,192 @@
+[
+    {
+        "name": "London",
+        "lat": 51.5074,
+        "lng": -0.1278
+    },
+    {
+        "name": "Manchester",
+        "lat": 53.483959,
+        "lng": -2.244644
+    },
+    {
+        "name": "Birmingham",
+        "lat": 52.4862,
+        "lng": -1.8904
+    },
+    {
+        "name": "Liverpool",
+        "lat": 53.4084,
+        "lng": -2.9916
+    },
+    {
+        "name": "Leeds",
+        "lat": 53.7997,
+        "lng": -1.5492
+    },
+    {
+        "name": "Sheffield",
+        "lat": 53.3811,
+        "lng": -1.4701
+    },
+    {
+        "name": "Bristol",
+        "lat": 51.4545,
+        "lng": -2.5879
+    },
+    {
+        "name": "Nottingham",
+        "lat": 52.9548,
+        "lng": -1.1581
+    },
+    {
+        "name": "Leicester",
+        "lat": 52.6369,
+        "lng": -1.1398
+    },
+    {
+        "name": "Southampton",
+        "lat": 50.9097,
+        "lng": -1.4044
+    },
+    {
+        "name": "Portsmouth",
+        "lat": 50.8198,
+        "lng": -1.0876
+    },
+    {
+        "name": "Cambridge",
+        "lat": 52.2053,
+        "lng": 0.1218
+    },
+    {
+        "name": "Oxford",
+        "lat": 51.752,
+        "lng": -1.2577
+    },
+    {
+        "name": "Norwich",
+        "lat": 52.6309,
+        "lng": 1.2974
+    },
+    {
+        "name": "Cardiff",
+        "lat": 51.4816,
+        "lng": -3.1791
+    },
+    {
+        "name": "Swansea",
+        "lat": 51.6214,
+        "lng": -3.9436
+    },
+    {
+        "name": "Edinburgh",
+        "lat": 55.9533,
+        "lng": -3.1883
+    },
+    {
+        "name": "Glasgow",
+        "lat": 55.8642,
+        "lng": -4.2518
+    },
+    {
+        "name": "Aberdeen",
+        "lat": 57.1497,
+        "lng": -2.0943
+    },
+    {
+        "name": "Belfast",
+        "lat": 54.5973,
+        "lng": -5.9301
+    },
+    {
+        "name": "Derry",
+        "lat": 54.9966,
+        "lng": -7.3086
+    },
+    {
+        "name": "Newcastle",
+        "lat": 54.9784,
+        "lng": -1.6174
+    },
+    {
+        "name": "Brighton",
+        "lat": 50.8225,
+        "lng": -0.1372
+    },
+    {
+        "name": "Plymouth",
+        "lat": 50.3755,
+        "lng": -4.1427
+    },
+    {
+        "name": "Exeter",
+        "lat": 50.726,
+        "lng": -3.5339
+    },
+    {
+        "name": "Bath",
+        "lat": 51.3758,
+        "lng": -2.3599
+    },
+    {
+        "name": "Luton",
+        "lat": 51.8787,
+        "lng": -0.42
+    },
+    {
+        "name": "Reading",
+        "lat": 51.4543,
+        "lng": -0.9781
+    },
+    {
+        "name": "York",
+        "lat": 53.959,
+        "lng": -1.0815
+    },
+    {
+        "name": "Blackpool",
+        "lat": 53.8175,
+        "lng": -3.0357
+    },
+    {
+        "name": "Lancaster",
+        "lat": 54.0474,
+        "lng": -2.8014
+    },
+    {
+        "name": "Middlesbrough",
+        "lat": 54.5742,
+        "lng": -1.2348
+    },
+    {
+        "name": "Chester",
+        "lat": 53.1915,
+        "lng": -2.895
+    },
+    {
+        "name": "Carlisle",
+        "lat": 54.8925,
+        "lng": -2.9321
+    },
+    {
+        "name": "Cheltenham",
+        "lat": 51.8994,
+        "lng": -2.0781
+    },
+    {
+        "name": "Gloucester",
+        "lat": 51.8642,
+        "lng": -2.2382
+    },
+    {
+        "name": "Worcester",
+        "lat": 52.1924,
+        "lng": -2.222
+    },
+    {
+        "name": "Hereford",
+        "lat": 52.0567,
+        "lng": -2.7161
+    }
+]
